@@ -2,7 +2,7 @@ package cis.vmi.edu;
 
 import java.util.Scanner;
 
-public class vowelConsonantCount {
+public class vowelConsenantCount {
 
 	public static void main(String[]args) {
 		
